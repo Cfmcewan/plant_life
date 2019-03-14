@@ -1,0 +1,299 @@
+div {
+  font-family: helvetica;
+}
+
+body {
+  color: #667757;
+}
+
+h2 {
+  text-align: center;
+}
+
+h6 {
+  font-size: 17px;
+  font-weight: normal;
+  margin-left: 20px;
+  font-style: italic;
+  color: grey;
+}
+
+a {
+  color: #667757;
+}
+
+ul {
+  text-decoration: none;
+}
+
+p {
+  margin-left: 40px;
+  margin-right: 20px;
+  font-size: 15px;
+}
+
+.hero {
+  width: 400px;
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+.plant-type {
+  width: 200px;
+  margin-left: 20px;
+  border: 2px solid #c5c5c7;
+}
+
+.plant-type:hover {
+  border: 2px dotted #c5c5c7;
+}
+
+.plant_logo {
+  height: 250px;
+}
+
+
+.plant-logo-intable {
+  height: 250px;
+}
+
+.plant-logo-intable:hover {
+  height: 250px;
+  border: 1px dotted #c5c5c7;
+}
+
+.plant_info {
+  color: black;
+}
+
+.home_image {
+  width: 1200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 30px;
+
+}
+
+#title {
+  text-align: center;
+  color: #667757;
+}
+
+.topnav {
+  font-family: helvetica;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
+.home {
+  border: 1px dotted #c5c5c7;
+  border-radius: 7px;
+  padding: 7px;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+
+.plant-table {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.plant-table td, th {
+  border: solid 1px #c5c5c7;
+  min-width: 60px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  }
+
+.plant-table td {
+  font-size: 13px;
+  text-align: center;
+  padding: 8px;
+}
+
+.plant-table th {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.plant-table table {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.nursery-table td, th {
+  border: solid 1px #c5c5c7;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  width: 140px;
+}
+
+.nursery-table table {
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.nursery-table {
+  min-width: 200px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.nursery-plant-table {
+  border: solid 1px #c5c5c7;
+  min-width: 500px;
+  padding: 30px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.nursery-plant-table td {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.plant-table-show {
+  font-size: 13px;
+  text-align: center;
+  padding: 8px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.plant-table-show td {
+  border: solid 1px #c5c5c7;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.plant-type-table {
+  border: solid 1px #c5c5c7;
+  min-width: 650px;
+  padding: 30px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.plant-type-table td {
+  padding-left: 40px;
+  padding-right: 20px;
+}
+
+.form-plant {
+  margin-left: auto;
+  margin-right: auto;
+  width: 170px;
+}
+
+.label-plant label {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.input-plant {
+  padding: 8px;
+  border-radius: 7px;
+}
+
+.option-new-plant option{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 150px;
+}
+
+.save {
+  color: grey;
+  font-size: 30px;
+  width: 150px;
+  padding-top: 10px;
+}
+
+.save-nursery {
+  color: grey;
+  font-size: 30px;
+  width: 100px;
+  padding-top: 10px;
+}
+
+.form-nursery {
+  margin-left: 400px;
+  padding-top: 30px;
+}
+
+.label-nursery {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.input-nursery {
+  padding: 8px;
+  border-radius: 7px;
+}
+
+h1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h3 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h2 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.delete-button {
+  color: #667757;
+  font-size: 24px;
+  margin-left: 50px;
+  font-family: helvetica;
+}
+
+.add-button {
+  border: dotted 1px #c5c5c7;
+  width: 150px;
+  padding: 15px;
+  border-radius: 7px;
+
+}
+
+.plant-selling-points {
+  margin-left: 340px;
+  margin-right: 340px;
+  margin-top: 40px;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.plant-selling-points td {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.button {
+  margin-left: 10px;
+  border: 1px solid #c5c5c7;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.plant-name {
+  margin-left: 50px;
+  padding-top: 80px;
+}
